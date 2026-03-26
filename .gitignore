@@ -8,6 +8,12 @@ quiz_history.json
 questions.pdf
 answers.txt
 
+# Node
+node_modules/
+
+# Generated — rebuilt from study.csv
+questions.json
+
 # Python
 __pycache__/
 *.py[cod]
@@ -19,7 +25,7 @@ env/
 # OS
 .DS_Store
 Thumbs.db
-
+.claude
 # Screenshots
 *.png
 *.jpg

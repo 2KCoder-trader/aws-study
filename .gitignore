@@ -1,0 +1,26 @@
+# Environment
+.env
+
+# Data files with no secrets (commit study.csv if you want it in the repo)
+quiz_history.json
+
+# PDF and raw source files (large, not needed in repo)
+questions.pdf
+answers.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg

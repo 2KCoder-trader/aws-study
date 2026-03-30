@@ -11,8 +11,6 @@ answers.txt
 # Node
 node_modules/
 
-# Generated — rebuilt from study.csv
-questions.json
 
 # Python
 __pycache__/
